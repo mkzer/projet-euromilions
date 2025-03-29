@@ -39,5 +39,4 @@ pip install -r requirements.txt
 
 ## 💡 Auteurs & mentions
 Projet personnel d'exploration IA  
-📩 [Ajoute ton email ou profil LinkedIn ici]  
 💼 Recherches : stage / alternance en data / IA / développement Python
